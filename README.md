@@ -3,6 +3,7 @@
 
 Weather Online	:
 	Kintamani	: https://weather.com/weather/today/l/9da89500e5b6d7925d3253056f1c541abaeb6dc7b592c7ed879b36e6159e127a
+	Mengwi		: https://weather.com/weather/today/l/754ad9c244779f868b82abad973f4b989a8bb3522cb2733bebb8bbc61783ba5b
 
 Linked Video 	:
 	Bali,Indonesia 	: https://www.youtube.com/watch?v=2b9txcAt4e0
