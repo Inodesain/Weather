@@ -12,4 +12,5 @@ Linked Video 	:
 	https://www.youtube.com/watch?v=qpiVtBZFn80 (Pura Ulun Danu)
 	https://www.youtube.com/watch?v=kqjevIeHM6A (Lake Batur)
 	https://www.youtube.com/watch?v=iZjJ6-w2fmk (Pura Taman Ayun)
+	https://www.youtube.com/watch?v=6TdM26ZSU-o (Jatiluwih Rice Terraces)
 	
