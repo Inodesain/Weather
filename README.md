@@ -7,8 +7,8 @@ Weather Online	:
 	https://weather.com/weather/today/l/f1afa25b2f7238e987740fd2bbe22afc4c56683a556940fcf653cbf91074582a (Tabanan)
 	
 Linked Video 	:
-	Bali,Indonesia 	: https://www.youtube.com/watch?v=2b9txcAt4e0
-	Pura Ulun Danu 	: https://www.youtube.com/watch?v=qpiVtBZFn80
-	Lake Batur	: https://www.youtube.com/watch?v=kqjevIeHM6A
-	Pura Taman Ayun	: https://www.youtube.com/watch?v=iZjJ6-w2fmk
+	https://www.youtube.com/watch?v=2b9txcAt4e0 (Bali, Indonesia)
+	https://www.youtube.com/watch?v=qpiVtBZFn80 (Pura Ulun Danu)
+	https://www.youtube.com/watch?v=kqjevIeHM6A (Lake Batur)
+	https://www.youtube.com/watch?v=iZjJ6-w2fmk (Pura Taman Ayun)
 	
