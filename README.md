@@ -9,6 +9,7 @@ Weather Online	:
 	
 Linked Video 	:
         https://youtu.be/DxZ9gsoDqb4 (Bali, Indonesia, part 1)
+	https://www.youtube.com/watch?v=RQM38IyHtts&feature=youtu.be (Bali, Indonesia, part 2)
 	https://www.youtube.com/watch?v=2b9txcAt4e0 (Bali, Indonesia)
 	https://www.youtube.com/watch?v=qpiVtBZFn80 (Pura Ulun Danu)
 	https://www.youtube.com/watch?v=kqjevIeHM6A (Lake Batur)
