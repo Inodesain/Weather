@@ -8,6 +8,7 @@ Weather Online	:
 	https://weather.com/weather/today/l/b3a7f2b0800232e4c31711f89eb622273f4e5edb52fc1e9c46db5d7532322e97 (Panebel)
 	
 Linked Video 	:
+        https://youtu.be/DxZ9gsoDqb4 (Bali, Indonesia, part 1)
 	https://www.youtube.com/watch?v=2b9txcAt4e0 (Bali, Indonesia)
 	https://www.youtube.com/watch?v=qpiVtBZFn80 (Pura Ulun Danu)
 	https://www.youtube.com/watch?v=kqjevIeHM6A (Lake Batur)
