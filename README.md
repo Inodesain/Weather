@@ -10,6 +10,7 @@ Weather Online	:
 	https://weather.com/weather/today/l/d9379a16ea1f5da3c54fc532eca36fb78a3bc7faa7abc745ab6eadca55d024c4 (Besakih)
 	https://weather.com/weather/today/l/7f985bdfae141f3f746e19b7346129b35e48347052297c6723ba9f7021f459ac (Klungkung)
 	https://weather.com/weather/today/l/556fd15b5517c55d4a20f8e398e94872bd321c4bd39ec04e0387e8cc20a3e40d (Ubud)
+	https://weather.com/weather/today/l/e7180a7d705e81303e3522696613759cff12c122db5672ff26587aed4341f007 (Kuta)
 
 Linked Video 	:
         https://youtu.be/DxZ9gsoDqb4 (Bali, Indonesia, part 1)
