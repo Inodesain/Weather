@@ -2,6 +2,12 @@
 
 
 - Links
+	- BMKG
+	- Wikipedia
+	- Youtube
+	- Google Maps
+	- Zomato
+	- Airbnb
 - Flag/Capital
 - Status
 - City/Settlement
