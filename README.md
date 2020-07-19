@@ -11,6 +11,12 @@
 - Flag/Capital
 - Status
 - City/Settlement
+	- Weather
+	- Wunderground
+	- BMKG
+	- Wikipedia
+	- Google Maps
+	- Airbnb
 - World Heritage
 - Point of Interest
 	- Weather
