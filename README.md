@@ -7,7 +7,8 @@ Weather Online	:
 	https://weather.com/weather/today/l/f1afa25b2f7238e987740fd2bbe22afc4c56683a556940fcf653cbf91074582a (Tabanan)
 	https://weather.com/weather/today/l/b3a7f2b0800232e4c31711f89eb622273f4e5edb52fc1e9c46db5d7532322e97 (Panebel)
 	https://weather.com/weather/today/l/f87da0fab27995435fef2c7a5d077bd9e33f137d28849835422d63b691b299eb (Blahbatuh)
-	
+	https://weather.com/weather/today/l/d9379a16ea1f5da3c54fc532eca36fb78a3bc7faa7abc745ab6eadca55d024c4 (Besakih)
+
 Linked Video 	:
         https://youtu.be/DxZ9gsoDqb4 (Bali, Indonesia, part 1)
 	https://www.youtube.com/watch?v=RQM38IyHtts&feature=youtu.be (Bali, Indonesia, part 2)
