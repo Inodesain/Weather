@@ -7,6 +7,9 @@
 - City/Settlement
 - World Heritage
 - Point of Interest
+	- Weather
+	- Wikipedia
+	- Youtube
 - Crop
 - Mineral
 - Mountain
