@@ -18,4 +18,5 @@ Linked Video 	:
         https://m.youtube.com/watch?v=StmL9Yns9DQ&t=34s (Monkey Forest)
 	https://www.youtube.com/watch?v=6h5jI_YbSTk (Uluwatu Temple)
 	https://www.youtube.com/watch?v=k9Q_L6cc_co (Gunung Kawi Temple)
+	https://www.youtube.com/watch?v=X5OfKodO-zI&feature=youtu.be (Banyumala Waterfall)
 	
