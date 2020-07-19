@@ -16,4 +16,5 @@ Linked Video 	:
 	https://www.youtube.com/watch?v=iZjJ6-w2fmk (Pura Taman Ayun)
 	https://www.youtube.com/watch?v=6TdM26ZSU-o (Jatiluwih Rice Terraces)
         https://m.youtube.com/watch?v=StmL9Yns9DQ&t=34s (Monkey Forest)
+	https://www.youtube.com/watch?v=6h5jI_YbSTk (Uluwatu Temple)
 	
