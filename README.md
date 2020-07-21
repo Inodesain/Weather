@@ -47,7 +47,7 @@ Wunderground :
 - Rainfall
 - Snow Depth
 - Weather History
-
+- Nearby Weather Stations
 
 Weather Online	:
 	https://weather.com/weather/today/l/9da89500e5b6d7925d3253056f1c541abaeb6dc7b592c7ed879b36e6159e127a (Kintamani)
