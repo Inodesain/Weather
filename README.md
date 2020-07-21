@@ -32,7 +32,7 @@
 Weather :
 -
 
-Wundergroud :
+Wunderground :
 - Temperature
 - Wind
 - Precipitation
