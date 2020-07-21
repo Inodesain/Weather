@@ -30,7 +30,16 @@
 - River
 
 Weather :
--
+- Temperature
+- Humidity
+- Pressure
+- Visibility
+- Wind
+- Dew Point
+- UV Index
+- Moon Phase
+- Weather Forecast : Today, Hourly, 10 Day, Weekend, Monthly, Radar, COVID-19
+- Specialty Forecast : Yesterday's Weather (Wunderground History), Farming, Fishing, Ski Forecast, Allergy Tracker, Boat & Beach, Cold & Flu
 
 Wunderground :
 - Temperature
