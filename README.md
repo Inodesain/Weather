@@ -1,5 +1,7 @@
 # Digital Encyclopedia with Weather Online
 
+This World Digital Encyclopedia provide information about anything organized by Continent, Country, Territory and City/Settlement.
+Linked to various websites, especially Weather and Wunderground with information about Weather Condition online at certain location. 
 
 - Links
 	- BMKG
